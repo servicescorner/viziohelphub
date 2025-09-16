@@ -15,17 +15,17 @@ Vizio.com/setup
     </div>
 
 
-.. image:: images/vizio-setup-main.png
+.. image:: viziotvsetup.png
    :alt: VIZIO Smart TV setup main screen
    :align: center
    :width: 700px
 
-.. image:: images/unbox.png
+.. image:: vizioentercode.png
    :alt: Unboxing VIZIO Smart TV
    :align: center
    :width: 600px
 
-.. image:: images/vizio-setup-page.png
+.. image:: viziotvsetupp.png
    :alt: VIZIO setup page
    :align: center
    :width: 600px
