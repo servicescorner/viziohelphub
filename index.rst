@@ -1,4 +1,4 @@
-Vizio.com/setup
+Vizio.com/setup vizio.com setup
 ================
 Get Started with SmartCast, Streaming, and Online Account Management
 
@@ -8,7 +8,7 @@ Get Started with SmartCast, Streaming, and Online Account Management
 
 .. image:: Button.png 
    :alt: Vizio.com/setup
-   :target: https://pre.im/?r4Ekguug57HY5LctmPLGaP5PVDC7nCVX9eHsb7t8msyh9x61rgmqCmNQGZ0cOoteF5I
+   :target: #
  
 .. raw:: html
 
@@ -36,7 +36,7 @@ VIZIO TVs are known for their excellent picture quality, SmartCast streaming, an
    Place your TV securely on a flat surface or mount it safely. Connect the power cord and turn on your TV using the remote.  
 
 2. **Visit vizio.com/setup** ¶  
-   Go to `https://vizio.com/setup <https://pre.im/?r4Ekguug57HY5LctmPLGaP5PVDC7nCVX9eHsb7t8msyh9x61rgmqCmNQGZ0cOoteF5I>`_ on your phone, tablet, or computer. Follow the on-screen instructions to link your device.  
+   Go to `https://vizio.com/setup" on your phone, tablet, or computer. Follow the on-screen instructions to link your device.  
 
 3. **Connect to Wi-Fi** ¶  
    - Choose your home Wi-Fi network on the TV and enter the password to connect.  
